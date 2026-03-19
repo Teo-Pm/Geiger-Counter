@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Geiger")(type "KiCad")(uri "${KIPRJMOD}/Geiger.kicad_sym")(options "")(descr ""))
+)
