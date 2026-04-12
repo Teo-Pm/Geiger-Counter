@@ -1,0 +1,22 @@
+Circuit: * C:\users\teo\Documents\School\Particle Physics\Geiger-Counter\Geiger-Counter\Electric Circuit\Proposed_Circuit_Toharia\Geiger_simplified.asc
+
+WARNING: Less than two connections to node N007.  This node is used by D1.
+Direct Newton iteration for .op point succeeded.
+
+Date: Sat Apr 11 10:01:06 2026
+Total elapsed time: 0.469 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 45044
+traniter = 45033
+tranpoints = 13239
+accept = 10353
+rejected = 2886
+matrix size = 29
+fillins = 8
+solver = Normal
+Matrix Compiler1: 1.51 KB object code size  0.7/0.4/[0.3]
+Matrix Compiler2: 2.02 KB object code size  0.4/0.7/[0.4]
+

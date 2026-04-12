@@ -1,0 +1,6 @@
+* IRF630 N-Channel MOSFET (International Rectifier)
+* Vdss=200V Rds(on)=0.4 Id=9A
+.model IRF630 NMOS(Level=3 Gamma=0 Delta=0 Eta=0 Theta=0 Kappa=0.2
++ Vmax=0 Xj=0 Tox=100n Uo=600 Phi=.6 Rs=.00748 Kp=20.53u W=.35 L=2u
++ Vto=3.65 Rd=.0351 Rds=1.429Meg Cbd=4.418n Pb=.8 Mj=.5 Fc=.5
++ Cgso=6.56n Cgdo=3.27n Rg=.9 Is=1.259u N=1 Tt=288n)
